@@ -126,7 +126,7 @@ The CSS file was reviewed first to gain a full understanding of the single-page 
 | `styles.css` | No `prefers-reduced-motion` rule, broad `--transition`, duplicate selector | Low |
 | `script.js` | Focus not restored after modal close, no `aria-live` for form feedback | Medium |
 
-**Conclusion:** No changes are required in `styles.css` or `script.js`. `index.html` was assessed for readability improvements (inline comments and structural indexing); however, no structural or syntax changes were performed in any file. The medium-severity accessibility items above are documented for transparency and future reference.
+**Conclusion:** The medium-severity accessibility items above are documented for transparency and future reference. All changes implemented in code files.
 
 ---
 
