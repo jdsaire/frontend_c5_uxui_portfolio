@@ -1,6 +1,6 @@
 # Alex Styles — Graphic Designer Portfolio
 
-**Course 5 of 6** in the Microsoft Front-End Developer Specialization — **UX/UI Design Principles**
+## Course 5 of 6 in the Microsoft Front-End Developer Specialization — *UX/UI Design Principles*
 
 **Live site:** [https://jdsaire.github.io/frontend_c5_uxui_portfolio/](https://jdsaire.github.io/frontend_c5_uxui_portfolio/)
 
