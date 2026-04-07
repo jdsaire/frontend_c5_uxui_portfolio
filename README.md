@@ -2,6 +2,8 @@
 
 **Course 5 of 6** in the Microsoft Front-End Developer Specialization — **UX/UI Design Principles**
 
+**Live site:** [https://jdsaire.github.io/frontend_c5_uxui_portfolio/](https://jdsaire.github.io/frontend_c5_uxui_portfolio/)
+
 A responsive, interactive portfolio website for Alex Styles, a graphic designer with over 6 years of industry experience. From the client's perspective, the goal of this project was to produce a professional online presence that consolidates work samples, communicates a personal brand, and provides a direct contact channel — all essential for attracting new clients and collaborators in a competitive creative market.
 
 The project was completed in three iterations, each building on the previous deliverable. Developed **5–7 April 2026** with the following effective-hour breakdown:
@@ -13,8 +15,6 @@ The project was completed in three iterations, each building on the previous del
 | Review & iteration | 2 h | Included Google Docs annotations on the original README and Gemini Pro processing |
 | Deployment | 1 h | GitHub connection via Claude Code; peer review of 2 assignments to complete evaluation requirements |
 | **Total** | **7 h** | |
-
-**Live site:** [https://jdsaire.github.io/frontend_c5_uxui_portfolio/](https://jdsaire.github.io/frontend_c5_uxui_portfolio/)
 
 ---
 
